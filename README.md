@@ -3,16 +3,17 @@
 
 ### Index 📃
 ---
-1. Index 📃
-2. Why I made this ❓
-3. Usage 🏯 
-	1.  As a Home Page 🏠
-	2.  As a New Tab page ➕ 
-4.  Customization 🌴
-	1.  Changing the colors 🖌️
-	2.  Changing the Images 🖼️
-	3.  Adding your Links 🔗
-5.  Disclaimer ⚠️
+1. [Index 📃](https://github.com/Deottive/Shibui.page#index-)
+2. [Why I made this ❓](https://github.com/Deottive/Shibui.page#why-i-made-this-)
+3. [Usage 🏯](https://github.com/Deottive/Shibui.page#usage-) 
+	1.  [As a Home Page 🏠](https://github.com/Deottive/Shibui.page#as-a-home-page-)
+	2.  [As a New Tab page ➕](https://github.com/Deottive/Shibui.page#as-a-new-tab-page-) 
+4.  [Customization 🌴](https://github.com/Deottive/Shibui.page#customizations-)
+	1.  [Changing the colors 🖌️](https://github.com/Deottive/Shibui.page#changing-the-colors-%EF%B8%8F)
+	2.  [Changing the Images 🖼️](https://github.com/Deottive/Shibui.page#changing-the-image-%EF%B8%8F)
+	3.  [Adding your Links 🔗](https://github.com/Deottive/Shibui.page#adding-your-links--)
+5.  [Disclaimer ⚠️](https://github.com/Deottive/Shibui.page#disclaimer-%EF%B8%8F)
+6.  [Features](https://github.com/Deottive/Shibui.page#features-)
 
 #### Why I made this ❓
 This is just a simple project which I am making for myself as I have opted for Bacheloers in **IT** and wanted to get a simple project during vacations, I have made this in a day and so here it is, Just a Simple Webpage which can be installed as an Extension and can be used as *New tab page* and a *Home page*. 
