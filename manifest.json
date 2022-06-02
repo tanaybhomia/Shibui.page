@@ -1,0 +1,8 @@
+{
+	"name": "Shibui Page",
+	"version": "1.0",
+	"description": "First Startpage for simplicity and Minimalism",
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	}
+}
